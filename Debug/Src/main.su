@@ -1,0 +1,8 @@
+main.c:98:7:SpeedEngine	0	static
+main.c:117:7:HAL_Values	32	static
+main.c:144:7:HAL_Licz	16	static
+main.c:200:7:HAL_TIM_PeriodElapsedCallback	40	static
+main.c:370:6:SystemClock_Config	96	static
+main.c:236:5:main	8	static
+main.c:410:6:HAL_GPIO_EXTI_Callback	8	static
+main.c:439:6:Error_Handler	0	static
